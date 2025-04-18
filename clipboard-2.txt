@@ -1,0 +1,1 @@
+Fix: definir root do deploy para /templo
